@@ -1,0 +1,33 @@
+{
+  "name": "devcraftsensei",
+  "version": "1.0.2",
+  "description": "devcraftsensei",
+  "type": "module",
+  "main": "devcraftsensei.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hyrumk1997/devcraftsensei"
+  },
+  "website": "https://github.com/hyrumk1997/devcraftsensei.git",
+  "keywords": [
+    "devcraftsensei"
+  ],
+  "author": "hyrumk1997",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyrumk1997/devcraftsensei/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/hyrumk1997/devcraftsensei#readme",
+  "dependencies": {
+    "codescriptpro": "1.0.2",
+    "programcodecraft": "1.0.2",
+    "codecraftsage": "1.0.2"
+  }
+}
